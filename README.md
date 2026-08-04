@@ -9,12 +9,10 @@ Click the green **Use this template** button at the top of this page → **Creat
 In your new repo: green **Code** button → **Codespaces** tab → **Create codespace on main**. This opens a code editor in your browser — no installing anything. You'll see `index.html` in the file list on the left.
 
 ## 3. Edit two lines
-Open `index.html` and change these two lines:
+Open `index.html`. Line numbers run down the left edge of the editor — you're looking for **line 82** and **line 85** (each one has an `EDIT THIS LINE` comment right above it):
 
-```html
-<h1>Your Name Here</h1>
-<p>One sentence about your project.</p>
-```
+- **Line 82** — `<h1>Your Name Here</h1>` → change to your name
+- **Line 85** — `<p>One sentence about your project.</p>` → change to one sentence about your project
 
 Save. Then commit: click the **Git** icon in the left sidebar, stage your change (the **+**), type a message like `first edit`, click the checkmark, and **Sync Changes**.
 
