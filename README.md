@@ -28,6 +28,8 @@ Open `index.html`. Line numbers run down the left edge of the editor — you're 
 ## 4. Put it on the internet
 Go to [vercel.com](https://vercel.com) → sign in with GitHub → **Add New → Project** → pick this repo → leave every setting as default → **Deploy**. About 30 seconds later you'll have a live URL. Post it in `#wins-cohort-0`.
 
+> **Don't see your repo in Vercel's list?** Vercel is probably set to only *some* of your repositories. On that import screen, click **Adjust GitHub App Permissions** (near the repo list), choose **All repositories** (or add this one), save, then come back and refresh — it'll show up.
+
 ## 5. Make it yours
 Every change you commit redeploys automatically within ~30 seconds. Change the three colors at the top of `index.html`, add a paragraph, add a link — see what happens.
 
