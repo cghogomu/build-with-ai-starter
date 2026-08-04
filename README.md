@@ -20,7 +20,7 @@ Open `index.html`. Line numbers run down the left edge of the editor — you're 
 > 2. **Open the Git panel** — click the Git icon in the left sidebar (three circles connected by lines). Your edited file shows up under **Changes**.
 > 3. **Stage it** — hover over the file and click the **+**.
 > 4. **Write a message** — type `first edit` in the **message box at the top of the Git panel** (the field with faint placeholder text that says *Message*).
-> 5. **Commit** — click the **✓** checkmark just above that message box.
+> 5. **Commit** — click the **Commit** button (with the **✓** checkmark) just below the message box.
 > 6. **Push it to GitHub** — click **Sync Changes**.
 >
 > "Save" just updates the file in the editor. "Commit + Sync" is what actually sends your change to GitHub (and, in a minute, redeploys your live site).
