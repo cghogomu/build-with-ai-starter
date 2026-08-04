@@ -35,6 +35,8 @@ Go to [vercel.com](https://vercel.com) → sign in with GitHub → **Add New →
 ## 5. Make it yours
 Every change you commit redeploys automatically within ~30 seconds. Change the three colors at the top of `index.html`, add a paragraph, add a link — see what happens.
 
+> **Each new change follows the same commit flow from Step 3.** After you edit and save, **type a short message in the box at the top of the Git panel to name the change** (like `changed colors` or `added a link`) — that box isn't optional. Then click **Commit**, then **Sync Changes**. Your live site won't update until you've named it, committed, *and* synced.
+
 ---
 
 *This page is frontend only — just the "menu," no "kitchen" yet. That comes later.*
